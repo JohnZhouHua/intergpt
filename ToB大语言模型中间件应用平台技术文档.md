@@ -46,7 +46,7 @@
 
 整体架构图如下（示意）：
 <p align="center">
-  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/interGPT%E6%9E%B6%E6%9E%84%E5%9B%BE.png" width="600">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/interGPT%E6%9E%B6%E6%9E%84%E5%9B%BE.png" width="600">
 </p>
 
 

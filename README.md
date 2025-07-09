@@ -20,7 +20,7 @@ InterGPT 是一个为 B 端客户（如律所、医院、制造企业）打造�
 
 整体架构图如下（示意）：
 <p align="center">
-  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/interGPT%E6%9E%B6%E6%9E%84%E5%9B%BE.png" width="600">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/interGPT%E6%9E%B6%E6%9E%84%E5%9B%BE.png" width="600">
 </p>
 
 
@@ -35,7 +35,64 @@ InterGPT 是一个为 B 端客户（如律所、医院、制造企业）打造�
 
 ---
 
+## ⭐️ 部分系统截图
+
+对话窗：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/1.png" width="600">
+</p>
+
+工作室：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/2.png" width="600">
+</p>
+
+流程编排：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/3.png" width="600">
+</p>
+
+知识库：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/4.png" width="600">
+</p>
+
+知识库：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/5.png" width="600">
+</p>
+
+工具箱：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/6.png" width="600">
+</p>
+
+模型盒：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/7.png" width="600">
+</p>
+
+训练舱：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/8.png" width="600">
+</p>
+
+控制台：
+<p align="center">
+  <img src="https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/9.png" width="600">
+</p>
+
+
+---
+
+
 ## 🚀 在线体验
 
 https://intergpt2.grgchain.cn
 1300000000/1300000000
+
+---
+
+
+联系方式（wx同号）：MTUzMjU0Njk3Mjc=
+
