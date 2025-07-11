@@ -92,6 +92,9 @@ https://intergpt2.grgchain.cn
 1300000000/1300000000
 
 ---
+## 📖 操作手册
+
+https://inter-gpt-data.oss-cn-shanghai.aliyuncs.com/intergpt-png/InterGPTv3.0.6%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.docx
 
 
 联系方式（wx同号）：MTUzMjU0Njk3Mjc=
